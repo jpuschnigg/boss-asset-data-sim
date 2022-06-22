@@ -1,0 +1,24 @@
+{
+  "name": "boss-asset-data-sim",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sim.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node sim.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpuschnigg/boss-asset-data-sim.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpuschnigg/boss-asset-data-sim/issues"
+  },
+  "homepage": "https://github.com/jpuschnigg/boss-asset-data-sim#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "node-xls": "^0.0.8"
+  }
+}
